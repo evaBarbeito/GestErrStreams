@@ -1,0 +1,6 @@
+caràcter: a repeticions: 6 percentatge: 28% 
+caràcter: e repeticions: 4 percentatge: 19% 
+caràcter: v repeticions: 4 percentatge: 19% 
+caràcter: 
+ repeticions: 5 percentatge: 23% 
+caràcter: l repeticions: 2 percentatge: 9% 

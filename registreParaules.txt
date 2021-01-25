@@ -1,0 +1,6 @@
+eva: 4 vegades
+lau: 1 vegades
+pepa: 1 vegades
+jose: 1 vegades
+lala: 1 vegades
+maria: 1 vegades
