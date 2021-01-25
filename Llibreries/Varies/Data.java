@@ -3,11 +3,26 @@ package Varies;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
+import java.util.Calendar;
+import java.util.TimeZone;
 
 public abstract class Data {
 	public static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm");
 
 	
+	/**
+     * @param args the command line arguments
+     */
+    public static String imprimirLongTime(long time){
+        Calendar cal = Calendar.getInstance();
+        cal.setTimeZone(TimeZone.getTimeZone("UTC"));
+        cal.setTimeInMillis(time);
+        return (cal.get(Calendar.DAY_OF_MONTH) + "-" + (cal.get(Calendar.MONTH) + 1) + "-" 
+                + cal.get(Calendar.YEAR) + " a les " + cal.get(Calendar.HOUR_OF_DAY) + "h "
+                + cal.get(Calendar.MINUTE) + "' " + cal.get(Calendar.SECOND) + "'' " + cal.get(Calendar.MILLISECOND));
+
+    }
+
 	public static String imprimirData(LocalDateTime dataTmp) {
 		if (dataTmp == null) {
         	return "NULL";

@@ -8,3 +8,8 @@ directoriExercici10/fitxer2.txt
 directoriExercici10/fitxer3.txt
 directoriExercici10/fitxer4.txt
 directoriExercici10/fitxer5.txt
+directoriExercici10/fitxer1.txt
+directoriExercici10/fitxer2.txt
+directoriExercici10/fitxer3.txt
+directoriExercici10/fitxer4.txt
+directoriExercici10/fitxer5.txt
