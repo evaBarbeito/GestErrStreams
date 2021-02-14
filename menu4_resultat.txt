@@ -1,0 +1,14 @@
+Caràcter: 
+, repeticions: 9, percentatge: 21% 
+Caràcter: a, repeticions: 10, percentatge: 24% 
+Caràcter: e, repeticions: 6, percentatge: 14% 
+Caràcter: i, repeticions: 1, percentatge: 2% 
+Caràcter: j, repeticions: 1, percentatge: 2% 
+Caràcter: l, repeticions: 3, percentatge: 7% 
+Caràcter: m, repeticions: 1, percentatge: 2% 
+Caràcter: o, repeticions: 1, percentatge: 2% 
+Caràcter: p, repeticions: 2, percentatge: 4% 
+Caràcter: r, repeticions: 1, percentatge: 2% 
+Caràcter: s, repeticions: 1, percentatge: 2% 
+Caràcter: u, repeticions: 1, percentatge: 2% 
+Caràcter: v, repeticions: 4, percentatge: 9% 

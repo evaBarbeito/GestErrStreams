@@ -1,0 +1,15 @@
+FITXER: /home/users/inf/inf/gmartinez/gmartinez/netbeansProjects/M03Block2-UF5-NF3-Examens/fitxers_examen_2018_2019/exercici2/moniato.txt:
+linia 1 del moniato.txt
+linia 2 del moniato.txt
+linia 3 del moniato.txt
+linia 4 del moniato.txt
+FITXER: /home/users/inf/inf/gmartinez/gmartinez/netbeansProjects/M03Block2-UF5-NF3-Examens/fitxers_examen_2018_2019/exercici2/patata.txt:
+linia 1 del patata.txt
+linia 2 del patata.txt
+linia 3 del patata.txt
+linia 4 del patata.txt
+FITXER: /home/users/inf/inf/gmartinez/gmartinez/netbeansProjects/M03Block2-UF5-NF3-Examens/fitxers_examen_2018_2019/exercici2/pepinillo.txt:
+linia 1 del pepinillo.txt
+linia 2 del pepinillo.txt
+linia 3 del pepinillo.txt
+linia 4 del pepinillo.txt

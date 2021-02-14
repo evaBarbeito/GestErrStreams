@@ -1,0 +1,11 @@
+# DADES DE LA PÀGINA WEB https://www.ditl.org/ship-page.php?ClassID=misbreengrigate&ListID=Ships
+# UPDATEJAT EL DIA 2019-11-28T20:33:56.967
+#Thu Nov 28 20:33:56 CET 2019
+Universe=Primer Timeline
+Affiliation=Dominion
+Class_Name=Breen Frigate
+Type=Light combat / scout ship
+Mass=818000 metric tons
+Crew=approximately 30 - 50
+Overall_Strength_Index=227
+

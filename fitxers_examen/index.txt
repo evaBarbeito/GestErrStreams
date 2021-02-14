@@ -1,0 +1,13 @@
+patata
+fregida
+DIRECTORI: patata, rwx, tamany = 1017 bytes.
+DIRECTORI: dirACopiar, rwx, tamany = 1002 bytes.
+FITXER: copiaDeTotsElsTxt.txt, rw-, tamany = 710 bytes.
+DIRECTORI: papagallo_ES_UN_DIRECTORI.txt, rwx, tamany = 0 bytes.
+FITXER: moniato.txt, rw-, tamany = 96 bytes.
+DIRECTORI: ostras_ES_UN_DIRECTORI.txt, rwx, tamany = 0 bytes.
+FITXER: pepinillo.txt, rw-, tamany = 104 bytes.
+DIRECTORI: pepinillos_ES_UN_DIRECTORI, rwx, tamany = 0 bytes.
+DIRECTORI: .papagallo_camuflat_ES_UN_DIRECTORI.txt, rwx, OCULT, tamany = 0 bytes.
+FITXER: patata.txt, rw-, tamany = 92 bytes.
+FITXER: index.txt, rw-, tamany = 15 bytes.
